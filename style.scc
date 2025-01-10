@@ -1,8 +1,17 @@
-<section class="cards">
-  <article class="card">
-    <div class="card-title">Название товара</div>
-    <img src="/images/card-item-1.png" alt="Товар-1">
-    <div class="card-price"><span class="price-sum">24 000</span><span class="price-cur">руб.</span></div>
-    <button>Заказать</button>
-  </article>
-</section>
+body {
+  font-family: times new roman;
+  line-height: 1,5;
+}
+#main-title {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.content {
+  background-color: black;
+}
+
+p {
+  color: white;
+}
